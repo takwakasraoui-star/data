@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PC Portable Gamer",
+      "description": "Un ordinateur portable puissant pour le gaming et les tâches lourdes.",
+      "image": "https://via.placeholder.com/300x200?text=PC+Gamer"
+    },
+    {
+      "id": 2,
+      "name": "Souris Gaming RGB",
+      "description": "Souris ergonomique avec éclairage RGB pour une précision maximale.",
+      "image": "https://via.placeholder.com/300x200?text=Souris+Gaming"
+    },
+    {
+      "id": 3,
+      "name": "Clavier Mécanique",
+      "description": "Clavier mécanique rétroéclairé idéal pour le gaming et la frappe rapide.",
+      "image": "https://via.placeholder.com/300x200?text=Clavier+Mecanique"
+    },
+    {
+      "id": 4,
+      "name": "Écran 27 pouces",
+      "description": "Écran Full HD 27’’ parfait pour le travail et le divertissement.",
+      "image": "https://via.placeholder.com/300x200?text=Ecran+27p"
+    },
+    {
+      "id": 5,
+      "name": "Casque Audio",
+      "description": "Casque confortable offrant un son immersif pour jouer ou écouter de la musique.",
+      "image": "https://via.placeholder.com/300x200?text=Casque+Audio"
+    },
+    {
+      "id": 6,
+      "name": "SSD NVMe 1TB",
+      "description": "Un stockage ultra rapide pour booster les performances de votre PC.",
+      "image": "https://via.placeholder.com/300x200?text=SSD+NVMe"
+    }
+  ]
+}
